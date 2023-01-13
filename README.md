@@ -1,6 +1,5 @@
 ### Oii!! Eu sou a Sara Neves
 - 🌱 Estou estudando JavaScript 
-- 😄 Pronomes: ela/dela
 
 <br> 
 <div> 
