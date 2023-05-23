@@ -1,5 +1,5 @@
 ### Oii!! Eu sou a Sara Neves
-- 🌱 Estou estudando JavaScript 
+- 🌱 Estou estudando Programação
 
 <br> 
 <div> 
